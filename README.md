@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**ShramanSakya/ShramanSakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shraman Shakya, an IT student currently based in Thailand 🇹🇭, originally from Nepal 🇳🇵.
 
-Here are some ideas to get you started:
+I'm passionate about building and experimenting things for the web, learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ What I'm working on
+📚 Currently studying IT in Thailand
+🛠️ Tech Stack
+⚛️ React
+📘 TypeScript
+🎨 Tailwind CSS
+
+I'm always open to connecting, collaborating, or talking about tech! 🤝
+
+ Hobbies & Interests
+🏋️ Gym rat
+🍿 Watching anime
+🎮 Playing games
+🌱 Touching grass
